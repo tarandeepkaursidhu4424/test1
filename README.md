@@ -1,2 +1,2 @@
 # test1
-test1 repo
+this is the testing program 
